@@ -1,0 +1,9 @@
+{
+  "hello": "Merhaba",
+  "language":"Türkçe",
+  "appbar_text":"Dil Değişim Sayfası",
+  "welcome": "Uygulamamıza hoş geldiniz!",
+  "choose_language": "Dil seçin:",
+  "t1": "Flutter'da Yerelleştirme",
+  "text_description":"Yerelleştirme, bir uygulamanın farklı diller ve bölgeler için uyarlanması sürecidir. Flutter, birden çok dilde uygulama geliştirmeyi kolaylaştırmak için yerleşik destek sağlar. flutter_localizations paketi, bu süreç için gerekli olan GlobalMaterialLocalizations, GlobalWidgetsLocalizations ve GlobalCupertinoLocalizations gibi yerelleştirme delegelerini içerir.Uygulamanızda yerelleştirme desteği sağlamak için MaterialApp widget'ına localizationsDelegates ve supportedLocales parametrelerini ekleyin. Ardından, intl paketini kullanarak uygulamanızda çeşitli diller için metinleri yönetin.Flutter'da yerelleştirme hakkında daha fazla bilgi için Flutter belgelerine göz atabilirsiniz:"
+}

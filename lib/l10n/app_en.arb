@@ -1,0 +1,9 @@
+{
+  "hello": "Hello",
+  "language":"English",
+  "appbar_text": "Change Language Page",
+  "welcome": "Welcome to our app!",
+  "choose_language": "Choose your language:",
+  "t1":"Localization in Flutter",
+  "text_description": "Localization is the process of adapting an application for different languages and regions. Flutter provides built-in support for building multilingual applications. The flutter_localizations package contains necessary localization delegates like GlobalMaterialLocalizations, GlobalWidgetsLocalizations, and GlobalCupertinoLocalizations.To add localization support to your app, include the localizationsDelegates and supportedLocales parameters in the MaterialApp widget. Then use the intl package to manage text for different languages in your app.For more information about localization in Flutter, check the Flutter documentation:"
+}
