@@ -21,7 +21,9 @@ This Flutter project provides a basic example for localization. If you're new to
 Before you start with Flutter development, check out the [online documentation](https://docs.flutter.dev/), which offers tutorials, examples, and a complete API reference.
 
 ## ScreenShot
-<img src="" width="200" height="400">  
+<img src="https://github.com/HaticeDilmac/flutter_localization_example/assets/100489350/4e811523-c2ac-44ee-b28b-2a4b4047ba90" width="200" height="400">   
+<img src="https://github.com/HaticeDilmac/flutter_localization_example/assets/100489350/6cad2a88-e4a8-4140-b4f4-f2e42777d4a6" width="200" height="400">   
+ 
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -45,3 +47,9 @@ Bu Flutter projesi, yerelleştirme için temel bir örnek sağlar. İlk kez Flut
 Flutter geliştirmeye başlamadan önce [çevrimiçi belgeleri](https://docs.flutter.dev/) kontrol edebilirsiniz. Bu belgeler, eğitimler, örnekler ve eksiksiz bir API referansı sağlar.
  
 
+
+## Ekran Görüntüsü
+
+<img src="https://github.com/HaticeDilmac/flutter_localization_example/assets/100489350/4e811523-c2ac-44ee-b28b-2a4b4047ba90" width="200" height="400">   
+<img src="https://github.com/HaticeDilmac/flutter_localization_example/assets/100489350/6cad2a88-e4a8-4140-b4f4-f2e42777d4a6" width="200" height="400">   
+ 
