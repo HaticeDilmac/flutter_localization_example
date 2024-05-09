@@ -1,16 +1,41 @@
 # flutter_localization_example
 
-A new Flutter project.
 
-## Getting Started
+## Türkçe
 
-This project is a starting point for a Flutter application.
+Bu proje, Flutter uygulamalarında yerelleştirme (localization) örneklerini göstermektedir. Uygulama, farklı diller arasında geçiş yapmanıza ve kullanıcı arabirimi metinlerini değiştirmenize olanak tanır.
 
-A few resources to get you started if this is your first Flutter project:
+### Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Çoklu dil desteği (Türkçe ve İngilizce)
+- Dil değişimi için kolay anahtarlar
+- Metinlerin dil değiştirme sırasında güncellenmesi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Başlangıç
+
+Bu Flutter projesi, yerelleştirme için temel bir örnek sağlar. İlk kez Flutter uygulaması geliştiriyorsanız, aşağıdaki kaynaklar yardımcı olabilir:
+
+- [Flutter'da Yerelleştirme](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
+- [Flutter Örnekleri](https://docs.flutter.dev/cookbook)
+
+Flutter geliştirmeye başlamadan önce [çevrimiçi belgeleri](https://docs.flutter.dev/) kontrol edebilirsiniz. Bu belgeler, eğitimler, örnekler ve eksiksiz bir API referansı sağlar.
+
+--------------------------------------------------------------
+## English
+
+This project demonstrates localization examples in Flutter applications. The app allows you to switch between different languages and updates the user interface text accordingly.
+
+### Features
+
+- Multi-language support (Turkish and English)
+- Easy language-switching keys
+- Updated text when changing languages
+
+### Getting Started
+
+This Flutter project provides a basic example for localization. If you're new to Flutter, the following resources might be helpful:
+
+- [Localization in Flutter](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
+- [Flutter Samples](https://docs.flutter.dev/cookbook)
+
+Before you start with Flutter development, check out the [online documentation](https://docs.flutter.dev/), which offers tutorials, examples, and a complete API reference.
